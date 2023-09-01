@@ -11,7 +11,6 @@ export default function index() {
       <Route path='edit' element={<Edit />} />
       <Route path='remove' element={<Remove />} />
       <Route path='update' element={<Update />} />
-
     </Routes>
   )
 }

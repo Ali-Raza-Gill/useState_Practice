@@ -6,7 +6,7 @@ import Contact from './Contact'
 import Nopage404 from './Nopage404'
 
 
-export default function index() {
+export default function Index() {
     return (
         <Routes>
             <Route path='/' element={<Home />} />
